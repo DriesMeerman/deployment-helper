@@ -1,0 +1,16 @@
+{
+    "deployments": [
+        {
+            "key": "some_fancy_secret_token",
+            "script": "sh ./deployment.sh"
+        },
+        {
+            "key": "a",
+            "script": "echo got A"
+        },
+        {
+            "key": "b",
+            "script": "echo got B"
+        }
+    ]
+}
